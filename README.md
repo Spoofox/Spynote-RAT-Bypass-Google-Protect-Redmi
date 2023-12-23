@@ -1,8 +1,8 @@
 
 # Spynote-RAT-Bypass-Google-Protect-Redmi
 Spynote RAT Bypass Google Protect ,  Redmi
-Spynote RAT 绕过 Google Protect、Redmi.
-.
+Spynote RAT 绕过 Google Protect、Redmi
+
 
 
 https://github.com/Spoofox/Spynote-RAT-Bypass-Google-Protect-Redmi/assets/150615617/56c1638d-4dea-4d8d-ae8f-ae3aed6d0e83
